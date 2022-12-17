@@ -8,6 +8,8 @@
   <a href="https://www.prisma.io/">Prisma</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://planetscale.com/">Planetscale</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://dash.cloudflare.com/">Cloudflare</a>
 </div>
 <hr>
 <br />
