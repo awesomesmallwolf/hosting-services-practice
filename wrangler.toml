@@ -1,0 +1,8 @@
+name = "rendai-backend"
+main = "src/index.ts"
+compatibility_date = "2022-12-16"
+node_compat = true
+account_id = "f5d78f7d140eb736f61096a253e5b7f9"
+
+[vars]
+ DATABASE_URL = "prisma://aws-us-east-1.prisma-data.com/?api_key=•••••••••••••••••"
